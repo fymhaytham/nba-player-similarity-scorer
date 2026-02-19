@@ -1,4 +1,4 @@
-# NBA Player Similarity Scorer 🏀
+# NBA Player Similarity Scorer
 
 A Python-based tool that calculates and visualizes statistical similarities between NBA players using machine learning techniques.
 
